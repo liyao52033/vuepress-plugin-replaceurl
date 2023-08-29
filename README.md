@@ -2,7 +2,7 @@
 
 ## install
 ```bash
-yarn add vuepress-plugin-repalceUrl -D
+yarn add liyao/vuepress-plugin-repalceUrl -D
 ```
 
 ## Use
