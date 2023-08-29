@@ -1,8 +1,8 @@
-# vuepress-plugin-rpurl
+# vuepress-plugin-replaceurl
 
 ## install
 ```bash
-yarn add liyao/vuepress-plugin-repalceUrl -D
+yarn add liyao/vuepress-plugin-replaceurl -D
 ```
 
 ## Use
@@ -13,7 +13,7 @@ yarn add liyao/vuepress-plugin-repalceUrl -D
 // .vuepress/theme/index.js
 
 module.exports = {
-  plugins: ['repalceUrl']
+  plugins: ['replaceurl']
 }
 ```
 
@@ -36,9 +36,9 @@ You can customize your replace rules. Example:
 // .vuepress/theme/index.js
 
 module.exports = {
-  plugins: ['repalceUrl', [/regex/i, 'new world']]
+  plugins: ['replaceurl', [/regex/i, 'new world']]
   // or multiple rules
-  // plugins: ['repalceUrl', [[/regex1/, 'world'], [/regex2/gi, 'world2']]]
+  // plugins: ['replaceurl', [[/regex1/, 'world'], [/regex2/gi, 'world2']]]
 }
 ```
 
