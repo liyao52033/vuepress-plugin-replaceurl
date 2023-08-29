@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-replaceurl",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Replace VuePress Blog URL of Pages and NavLinks.",
   "main": "index.js",
   "scripts": {
