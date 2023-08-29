@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/boboidream/vuepress-plugin-rpurl.git"
+    "url": "git+https://github.com/liyao52033/vuepress-plugin-repalceUrl"
   },
   "keywords": [
     "vuepress",
@@ -20,7 +20,7 @@
   "author": "boboidream",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/boboidream/vuepress-plugin-rpurl/issues"
+    "url": "https://github.com/liyao52033/vuepress-plugin-repalceUrl/issues"
   },
-  "homepage": "https://github.com/boboidream/vuepress-plugin-rpurl#readme"
+  "homepage": "https://github.com/liyao52033/vuepress-plugin-repalceUrl#readme"
 }

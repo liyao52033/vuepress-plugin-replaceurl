@@ -2,7 +2,7 @@
 
 ## install
 ```bash
-npm install boboidream/vuepress-plugin-rpurl -D
+yarn add vuepress-plugin-repalceUrl -D
 ```
 
 ## Use
@@ -13,7 +13,7 @@ npm install boboidream/vuepress-plugin-rpurl -D
 // .vuepress/theme/index.js
 
 module.exports = {
-  plugins: ['rpurl']
+  plugins: ['repalceUrl']
 }
 ```
 
@@ -36,9 +36,9 @@ You can customize your replace rules. Example:
 // .vuepress/theme/index.js
 
 module.exports = {
-  plugins: ['rpurl', [/regex/i, 'new world']]
+  plugins: ['repalceUrl', [/regex/i, 'new world']]
   // or multiple rules
-  // plugins: ['rpurl', [[/regex1/, 'world'], [/regex2/gi, 'world2']]]
+  // plugins: ['repalceUrl', [[/regex1/, 'world'], [/regex2/gi, 'world2']]]
 }
 ```
 
