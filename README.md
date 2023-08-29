@@ -5,7 +5,16 @@
 yarn add liyao52033/vuepress-plugin-replaceurl -D
 ```
 
+或者
+
+```bash
+npm i liyao52033/vuepress-plugin-replaceurl --save-dev
+```
+
+
+
 ## Use
+
 ### Default
 ```js
 // .vuepress/config.js
