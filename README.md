@@ -2,7 +2,7 @@
 
 ## install
 ```bash
-yarn add liyao52033/vuepress-plugin-replaceurl -D
+yarn add liyao52033/vuepress-plugin-replaceurl
 ```
 
 或者
